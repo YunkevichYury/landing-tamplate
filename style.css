@@ -41,8 +41,8 @@ body {
   letter-spacing: -0.25px;
   padding: 8px 20px;
 }
-.offer{
-    padding-top: 108px;
+.offer {
+  padding-top: 108px;
 }
 .offer__title {
   color: #d9e3ea;
@@ -65,4 +65,16 @@ body {
   font-weight: 400;
   line-height: 30px;
   letter-spacing: -0.25px;
+}
+.offer__imeges{
+  margin-top: 64px;
+  position: relative;
+}
+.offer__imege {
+
+}
+.offer__imege-play {
+  position: absolute;
+  top: 244px;
+  right: 468px;
 }
